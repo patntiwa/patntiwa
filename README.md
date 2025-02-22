@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
 ###
 
 <h1 align="center">Hey 👋 What's up?</h1>
