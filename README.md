@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My name is LONGCHY NTIWA Patrick and I'm a Fullstack Developer[cite: 1, 4].</p>
+<p align="center">My name is LONGCHY NTIWA Patrick and I'm a Fullstack Developer.</p>
 
 ###
 
@@ -12,9 +12,9 @@
 
 ###
 
-* 📬 **Email :** patntiwa19@gmail.com [cite: 2]
+* 📬 **Email :** patntiwa19@gmail.com 
 * 💼 **LinkedIn :** [patrick-longchy](https://linkedin.com/in/patrick-longchy) 
-* 🛠️ **Current Role :** Fullstack Developer at Octopus Technologies
+* 🛠️ **Current Role :** Fullstack Developer
 
 ###
 
